@@ -14,3 +14,20 @@ Gerador de senhas em python
 
 - Sistema de AVALIAÇÃO, do quão seguro a senha é!
 - Sistema de Avaliação, que verifica senhas mais comuns, e verifica se a senha gerada é vulneravel.
+
+
+Iniciar
+  Opção de senha
+    Sequencia de Palavras
+      Quantas Palavras na senha:
+      Wordlists
+      Palavras Escolhidas Manualmente
+
+    Letras Aleatorias
+      Quantas letras:
+      Vai incluir simbolos?
+      Vai incluir Numeros?
+      Vai incluir letras alfanumericos?
+      
+
+  
